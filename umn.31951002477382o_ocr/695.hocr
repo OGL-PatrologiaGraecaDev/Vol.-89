@@ -1,0 +1,32 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/89/umn.31951002477382o/695.png"; bbox 0 0 2045 3157; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 710 296 736 345">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 710 296 736 345">
+     <span class='ocr_line' id='line_1_1' title="bbox 710 296 736 345; baseline 0.077 -1"><span class='ocrx_word' id='word_1_1' title='bbox 710 296 736 345; x_wconf 56' lang='grc' dir='ltr'>Ξῖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 911 310 1004 330">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 911 310 1004 330">
+     <span class='ocr_line' id='line_1_2' title="bbox 911 310 1004 330; baseline 0.022 -1"><span class='ocrx_word' id='word_1_2' title='bbox 911 310 1004 330; x_wconf 60' lang='grc' dir='ltr'>ω</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 920 342 1005 361">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 920 342 1005 361">
+     <span class='ocr_line' id='line_1_3' title="bbox 920 342 1005 361; baseline 0.024 -1"><span class='ocrx_word' id='word_1_3' title='bbox 920 342 1005 361; x_wconf 71' lang='lat' dir='ltr'><strong>mm:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2045 546">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2045 152">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2045 152; baseline 0.04 -59"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 2045 152; x_wconf 63' lang='lat'><strong>—7\—-.—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 927 473 1005 511">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 927 473 1005 511">
+     <span class='ocr_line' id='line_1_5' title="bbox 927 473 1005 511; baseline 0.038 -7"><span class='ocrx_word' id='word_1_5' title='bbox 927 473 1005 511; x_wconf 59' lang='lat' dir='ltr'><strong>Lm</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
